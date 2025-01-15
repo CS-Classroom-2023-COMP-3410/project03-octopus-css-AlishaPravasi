@@ -1,0 +1,7 @@
+**Development Process**:
+
+Initially I asked ChatGPT to create a template CSS file based on the existing `index.html` and `screenshot.png`, and the result was ok, but not nearly close enough for submission. So then I used both the slides from class and Google searches about syntax to tweak the original draft ChatGPT gave me. After that, I had a couple things to tweak like the quiz section, the line under introduction, the bullets color, etc so I looked up most of it the old-fashioned way with the slides and the internet, but I fixed 2 problems with ChatGPT.
+
+**Challenges & Solutions**:
+
+My main problems were the quiz section and the line under the INTRODUCTION section. For the quiz section moving the image relative to the title of OCTOPUS QUIZ was difficult, so I asked ChatGPT and it was able to move it to the left, but the title was now over the image. So I told it it was wrong, and it adjusted the margins slightly which made a little difference. But from there I learned what margin-top and margin-left did so I changed it and it looked right. The second challlenge I ran into was putting the light blue line under the INTRODUCTION title. I asked ChatGPT to do it initially and it added a long line under INTRODUCTION instead of a short one. I pointed this issue out to ChatGPT so it created a psuedo element that is a line that's the same position and same color, but a little farther on the x axis than the original line. This covered up the original line enough to look like the original. 
